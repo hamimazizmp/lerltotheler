@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        Peler
+        Peler v2
       </h1>
       <h2 class="subtitle">
         My sensational Nuxt.js project
